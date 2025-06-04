@@ -1,4 +1,3 @@
 hii good morning
 how are you all
-my name is gopi
 this is menu.txt file
